@@ -1,9 +1,9 @@
 package services;
 
 import exceptions.FalhaContrato;
-import integracao.Contrato;
-import integracao.Pessoa;
-import integracao.TipoContrato;
+import entities.Contrato;
+import entities.Pessoa;
+import entities.TipoContrato;
 
 public class Contratar {
 

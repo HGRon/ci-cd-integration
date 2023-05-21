@@ -1,4 +1,4 @@
-package integracao;
+package entities;
 
 import exceptions.FalhaContrato;
 import org.junit.Test;

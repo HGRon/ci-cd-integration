@@ -1,4 +1,4 @@
-package integracao;
+package entities;
 
 public class Contrato {
 
